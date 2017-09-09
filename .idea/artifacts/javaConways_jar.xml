@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="javaConways:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/javaConways_jar</output-path>
+    <root id="archive" name="javaConways.jar">
+      <element id="module-output" name="javaConways" />
+    </root>
+  </artifact>
+</component>
